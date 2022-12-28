@@ -1,7 +1,10 @@
 
 /* Your CSS Code here. */
 
-
+body {
+    margin: 30px;
+    color: rgb(0, 0, 0);
+  }
   
   .parents {
     width: 600px;
@@ -26,7 +29,7 @@
     background-color: thistle;
   }
   
-  .rol2col1 {
+  .row2col1 {
     background-color: tomato;
   }
   
